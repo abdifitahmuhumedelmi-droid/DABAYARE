@@ -1,0 +1,6 @@
+{
+  "name": "BiteCraft Premium Fast Food",
+  "description": "A high-converting, modern fast food restaurant ordering experience with full menu search, checkout simulator, and smart order summary exports to Google Docs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
